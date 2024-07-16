@@ -10,7 +10,7 @@ class HamburguesasApp extends StatelessWidget {
     return MaterialApp(
       title: 'Hamburguesas App',
       theme: ThemeData(
-        primarySwatch: Colors.brown,
+        primarySwatch: Colors.red,
       ),
       home: LoginPage(),
     );
